@@ -11,5 +11,6 @@ public class Main {
 
         a2ClassStructure anotherObject = new a2ClassStructure(); //can create multiple objects from the same class
         anotherObject.printHi("Ronalyn"); //prints using the print statement inside the method printHi()
+
     }
 }

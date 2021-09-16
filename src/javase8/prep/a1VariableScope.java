@@ -1,5 +1,9 @@
 package javase8.prep;
 
+/**
+ * Scope of Variables
+ */
+
 public class a1VariableScope {
 
     //GLOBAL VARIABLE SCOPE:

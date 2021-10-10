@@ -1,6 +1,6 @@
 package javase8.prep;
 
-public class a6PrimitiveVariables {
+public class b1PrimitiveVariables {
     public static void main (String args[]){
 
         //UNSIGNED CHARACHTER

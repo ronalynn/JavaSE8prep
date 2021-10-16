@@ -5,7 +5,7 @@ package javase8.prep;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class b7StringEquality {
+public class c2StringEquality {
 
     /**
      * a == b is true when a and b are primitive data with the same value or object reference

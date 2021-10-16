@@ -2,7 +2,7 @@ package javase8.prep;
 
 //Use Java operators; use parentheses to override operator precedence
 
-public class b6JavaOperators {
+public class c1JavaOperators {
     /**
      * Operator precedence:
      *      1. Assignments: =, +=, -=, *=, /=, %=

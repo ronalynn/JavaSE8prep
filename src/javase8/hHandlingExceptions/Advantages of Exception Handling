@@ -1,0 +1,6 @@
+Describe the advantages of Exception handling
+    Advantage 1: Separating Error-Handling Code from “Regular” Code
+    Advantage 2: Propagating Errors Up the Call Stack
+    Advantage 3: Grouping and Differentiating Error Types
+    Advantage4: Meaningful Error Reporting
+    Advantage 5:Identifying Error Types

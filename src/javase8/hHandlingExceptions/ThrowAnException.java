@@ -1,5 +1,5 @@
 package javase8.hHandlingExceptions;
-
+//Create and invoke a method that throws an exception
 public class ThrowAnException {
     public static void main(String[] args) {
         try{
